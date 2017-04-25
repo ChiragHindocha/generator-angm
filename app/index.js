@@ -26,7 +26,7 @@ var AngmGenerator = generators.Base.extend({
 
 		var prompts = [{
 			name: 'appName',
-			message: 'What would you like to call your application?',
+			message: 'Chirag, What would you like to call your application?',
 			default: 'Ang-modular'
 		}, {
 			name: 'appDescription',
